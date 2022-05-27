@@ -115,7 +115,9 @@ or
 Time Complexity - O(N)
 
 ## Further Study
-longestFall
+
+### longestFall
+
 Write a function called longestFall, which accepts an array of integers, and returns the length of the longest 
 consecutive decrease of integers.
 
