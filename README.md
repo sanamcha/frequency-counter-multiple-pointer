@@ -85,10 +85,10 @@ in the first string appear somewhere in the second string, without their order c
 
 Examples:
 
-  isSubsequence('hello', 'hello world'); // true
-  isSubsequence('sing', 'sting'); // true
-  isSubsequence('abc', 'abracadabra'); // true
-  isSubsequence('abc', 'acb'); // false (order matters)
+      isSubsequence('hello', 'hello world'); // true
+      isSubsequence('sing', 'sting'); // true
+      isSubsequence('abc', 'abracadabra'); // true
+      isSubsequence('abc', 'acb'); // false (order matters)
 Constraints:
 
 Time Complexity - O(N + M)
